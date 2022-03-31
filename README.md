@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Vidya Patil</h1>
 <h3 align="center">I’m a web developer. I spend my whole day, practically every day, experimenting with HTML, CSS, and JavaScript. I build websites that delight and inform. I do it well.</h3>
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...")
 
 - 🔭 I’m currently working on [silocloud](silocloud.com)
 
