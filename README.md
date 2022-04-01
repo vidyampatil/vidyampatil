@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 💬 Ask me about **html,css,bootstrap,javascript,Bootstrap**
+- 💬 Ask me about **html,css,bootstrap,javascript,Bootstrap,PHP**
 
 - 📫 How to reach me **vidyapatil11096@gmail.com**
 
