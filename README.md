@@ -1,6 +1,6 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-Welcome to Vidya Patil's Profile! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-</h3>
+<a href="https://www.youtube.com/codingpotter"><img align="center" src="https://raw.githubusercontent.com/vidyampatil/vidyampatil/main/images/back.png"/></a>
+
+<h3 align="center">### Hi there 👋 I'm Vidya</h3>
 <h3 align="center">I’m a web developer. I spend my whole day, practically every day, experimenting with HTML, CSS, and JavaScript. I build websites that delight and inform. I do it well.</h3>
 <img src="https://c.tenor.com/qKKig3mKpYIAAAAC/squidgirl-noting.gif"img align="right" alt="Coding" width="400">
 ## I'm a  Developer, and Learner!!
