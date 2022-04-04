@@ -1,4 +1,4 @@
-<a href="https://www.youtube.com/codingpotter"><img align="center" src="https://user-images.githubusercontent.com/64088428/161522444-bfe9b2ca-6e02-4965-8a2b-f2604d2c49d2.jpg"/></a>
+<a href="https://www.youtube.com/codingpotter"><img align="center" src="https://user-images.githubusercontent.com/64088428/161522444-bfe9b2ca-6e02-4965-8a2b-f2604d2c49d2.jpg" height="230" width="1200"/></a>
 
 <h3 align="center">### Hi there 👋 I'm Vidya</h3>
 <h3 align="center">I’m a web developer. I spend my whole day, practically every day, experimenting with HTML, CSS, and JavaScript. I build websites that delight and inform. I do it well.</h3>
