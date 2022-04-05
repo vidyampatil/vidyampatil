@@ -1,5 +1,4 @@
-<img align="center" src="https://github.com/vidyampatil/vidyampatil/commit/0ef7e1b378caa520bfbc7ce96f2d0ec16295e2d5#commitcomment-70505266
-" height="230" width="1200"/>
+<img align="center" src="https://user-images.githubusercontent.com/64088428/161745505-37dfa168-17eb-489d-ba13-7b74054291dc.jpg" height="150" width="1200"/>
 
 <h3 align="center">### Hi there 👋 I'm Vidya</h3>
 <h3 align="center">I’m a web developer. I spend my whole day, practically every day, experimenting with HTML, CSS, and JavaScript. I build websites that delight and inform. I do it well.</h3>
