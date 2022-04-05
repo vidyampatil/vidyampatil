@@ -1,8 +1,8 @@
-<img align="center" src="https://user-images.githubusercontent.com/64088428/161745505-37dfa168-17eb-489d-ba13-7b74054291dc.jpg" height="150" width="1200"/>
+<img align="center" src="https://user-images.githubusercontent.com/64088428/161745505-37dfa168-17eb-489d-ba13-7b74054291dc.jpg" height="160" width="1200"/>
 
 <h3 align="center">### Hi there 👋 I'm Vidya</h3>
 <h3 align="center">I’m a web developer. I spend my whole day, practically every day, experimenting with HTML, CSS, and JavaScript. I build websites that delight and inform. I do it well.</h3>
-<img src="https://c.tenor.com/qKKig3mKpYIAAAAC/squidgirl-noting.gif"img align="right" alt="Coding" width="400">
+<img src="https://c.tenor.com/sCpDkw9380sAAAAM/web-development-web.gif"img align="right" alt="Coding" width="400">
 ## I'm a  Developer, and Learner!!
 
 - 👀 I’m interested in New Tech, Frontend Development
