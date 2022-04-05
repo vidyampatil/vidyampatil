@@ -1,4 +1,4 @@
-<img align="center" src="https://user-images.githubusercontent.com/64088428/161742030-c27537ca-5307-496c-901d-940e700544ae.jpg
+<img align="center" src="https://github.com/vidyampatil/vidyampatil/commit/0ef7e1b378caa520bfbc7ce96f2d0ec16295e2d5#commitcomment-70505266
 " height="230" width="1200"/>
 
 <h3 align="center">### Hi there 👋 I'm Vidya</h3>
