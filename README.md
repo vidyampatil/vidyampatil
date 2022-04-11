@@ -7,7 +7,6 @@
 
 - 👀 I’m interested in New Tech, Frontend Development
 - 📫 Trying to imporve myself everyday
-- 🔭 I’m currently working on [silocloud](silocloud.com)
 - 🌱 I’m currently learning **React Js**
 - 💬 Ask me about **HTML,Css,Bootsrap,Javascript,Bootstrap,PHP**
 - 📫 How to reach me **vidyapatil11096@gmail.com**
